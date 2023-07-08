@@ -3,5 +3,6 @@ pandas
 streamlit
 datetime
 pandas_datareader
+import pandas_datareader.data as web
 yfinance
-
+numpy
