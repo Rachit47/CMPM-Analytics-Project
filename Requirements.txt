@@ -1,6 +1,7 @@
-import streamlit as st
-import pandas as pd
-import pandas_datareader.data as web
-import datetime
-import yfinance as yf
-import plotly.express as px
+plotly
+pandas
+streamlit
+datetime
+pandas_datareader
+yfinance
+
