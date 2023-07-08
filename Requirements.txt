@@ -1,7 +1,7 @@
 plotly
-pandas
 streamlit
-datetime
+pandas
 pandas-datareader
-yfinance
+yfinance==0.1.63
+datetime
 numpy
