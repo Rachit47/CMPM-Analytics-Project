@@ -2,8 +2,6 @@ plotly
 pandas
 streamlit
 datetime
-pandas_datareader
 pip install pandas_datareader
-import pandas_datareader.data as web
 yfinance
 numpy
